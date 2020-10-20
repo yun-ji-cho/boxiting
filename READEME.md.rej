@@ -1,0 +1,10 @@
+diff a/READEME.md b/READEME.md	(rejected hunks)
+@@ -3,4 +3,5 @@
+ 복싱사이트 짱
+ 
+ ## 기능목록
+-1. 스파링 상대 찾기
+\ No newline at end of file
++1. 스파링 상대 찾기
++2. 스파링 시른데 좋아요
+\ No newline at end of file
